@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on AI development 
 - 📫 How to reach me
-- email: fwangoda@gmail.com,
+- email: fwangoda@gmail.com
 - whatsapp: https://wa.me/qr/ZDYMBEYHWTVEB1
 - 😄 Pronouns: He
 - ⚡ Fun fact:
