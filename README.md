@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WannerPro
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software development, AI and machine learning
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on AI development 
 - 📫 How to reach me fwangoda@gmail.com
