@@ -2,7 +2,9 @@
 - 👀 I’m interested in software development, AI and machine learning
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on AI development 
-- 📫 How to reach me fwangoda@gmail.com,  https://wa.me/qr/ZDYMBEYHWTVEB1
+- 📫 How to reach me
+- email: fwangoda@gmail.com,
+- whatsapp: https://wa.me/qr/ZDYMBEYHWTVEB1
 - 😄 Pronouns: He
 - ⚡ Fun fact:
 -  import self from life
